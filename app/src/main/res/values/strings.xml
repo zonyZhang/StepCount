@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StepCount</string>
+    <string name="notification_current_step">当前步数:%1$s</string>
+</resources>
